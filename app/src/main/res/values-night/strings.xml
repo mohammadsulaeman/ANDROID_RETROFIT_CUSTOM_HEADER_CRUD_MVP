@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BiodataMVP</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="nim_lengkap">Nim</string>
+    <string name="email">Email</string>
+    <string name="phone">Nomor Telepon</string>
+    <string name="dob">Tempat Tanggal Lahir</string>
+    <string name="address">Alamat Lengkap</string>
+    <string name="simpan">Simpan</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="details">Details</string>
+</resources>
